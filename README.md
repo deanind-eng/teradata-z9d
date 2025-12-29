@@ -1,0 +1,1 @@
+# teradata-z9d
